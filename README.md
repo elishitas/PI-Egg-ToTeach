@@ -1,7 +1,7 @@
 # Programación Inicial - Egg
 
 
-Curso de Introducción a Programación Iniicial en Egg 
+Curso de Introducción a Programación Inicial en Egg 
 
 ---
 
